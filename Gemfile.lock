@@ -101,11 +101,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  middleman (~> 4.2.1)
-  middleman-autoprefixer (~> 2.9.0)
-
-RUBY VERSION
-   ruby 2.4.3p205
+  middleman (~> 4.2)
+  middleman-autoprefixer (~> 2.7)
 
 BUNDLED WITH
    1.16.1
