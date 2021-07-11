@@ -6,7 +6,7 @@ Source files for https://qnyp.company site.
 
 ## Prerequisite
 
-- Ruby 2.6.3
+- Ruby 2.7.4
 
 ## Setup
 
