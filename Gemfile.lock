@@ -96,7 +96,7 @@ GEM
     tilt (2.0.10)
     toml (0.3.0)
       parslet (>= 1.8.0, < 3.0.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
