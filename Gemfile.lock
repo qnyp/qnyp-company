@@ -24,7 +24,7 @@ GEM
     fast_blank (1.0.1)
     fastimage (2.2.6)
     ffi (1.15.5)
-    haml (6.0.8)
+    haml (6.0.12)
       temple (>= 0.8.2)
       thor
       tilt
