@@ -4,9 +4,8 @@ updates:
   directory: "/"
   schedule:
     interval: monthly
-    time: "06:00"
     timezone: Asia/Tokyo
-  open-pull-requests-limit: 10
+  open-pull-requests-limit: 30
   labels:
   - dependencies
   allow:
