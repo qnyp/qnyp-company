@@ -10,7 +10,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (10.4.16.0)
       execjs (~> 2)
-    backports (3.24.1)
+    backports (3.25.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -74,7 +74,7 @@ GEM
       toml
       uglifier (~> 3.0)
       webrick
-    minitest (5.22.2)
+    minitest (5.22.3)
     padrino-helpers (0.15.3)
       i18n (>= 0.6.7, < 2)
       padrino-support (= 0.15.3)
@@ -83,7 +83,7 @@ GEM
     parallel (1.24.0)
     parslet (2.0.0)
     public_suffix (5.0.4)
-    rack (2.2.8.1)
+    rack (2.2.9)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
