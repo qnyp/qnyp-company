@@ -103,6 +103,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-23
   ruby
 
 DEPENDENCIES
@@ -113,4 +114,4 @@ RUBY VERSION
    ruby 3.3.0p0
 
 BUNDLED WITH
-   2.2.23
+   2.5.7
