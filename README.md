@@ -4,7 +4,7 @@ Source files for https://about.qnyp.com site.
 
 ## Prerequisite
 
-- Ruby 3.2
+- Ruby 3.4
 
 ## Setup
 
