@@ -19,7 +19,7 @@ GEM
     autoprefixer-rails (10.4.21.0)
       execjs (~> 2)
     base64 (0.2.0)
-    benchmark (0.4.0)
+    benchmark (0.4.1)
     bigdecimal (3.1.9)
     coffee-script (2.4.1)
       coffee-script-source
