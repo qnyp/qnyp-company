@@ -36,7 +36,7 @@ GEM
     fastimage (2.4.0)
     ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
-    haml (6.3.0)
+    haml (7.0.1)
       temple (>= 0.8.2)
       thor
       tilt
