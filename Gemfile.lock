@@ -133,7 +133,7 @@ GEM
       concurrent-ruby (~> 1.0)
     uglifier (4.2.1)
       execjs (>= 0.3.0, < 3)
-    uri (1.1.1)
+    uri (1.1.2)
     webrick (1.9.2)
 
 PLATFORMS
@@ -219,7 +219,7 @@ CHECKSUMS
   toml (0.3.0) sha256=0a91d0f76a9036e84e44f95693b12f58d358c1df3ac8e3b5271f2056ecc6e4b9
   tzinfo (2.0.6) sha256=8daf828cc77bcf7d63b0e3bdb6caa47e2272dcfaf4fbfe46f8c3a9df087a829b
   uglifier (4.2.1) sha256=75d42b81b10bfd21e7a427fabb1d49ff5ea7bda3c4a5039ddb2a78d194c6f5aa
-  uri (1.1.1) sha256=379fa58d27ffb1387eaada68c749d1426738bd0f654d812fcc07e7568f5c57c6
+  uri (1.1.2) sha256=89292e98eabbef6248b0a0ed5e7e398e152f83f17560023a6d94a7f492b169fb
   webrick (1.9.2) sha256=beb4a15fc474defed24a3bda4ffd88a490d517c9e4e6118c3edce59e45864131
 
 RUBY VERSION
