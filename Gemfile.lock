@@ -104,11 +104,11 @@ GEM
       drb (~> 2.0)
       prism (~> 1.5)
     mutex_m (0.3.0)
-    padrino-helpers (0.16.1)
+    padrino-helpers (0.16.2)
       i18n (>= 0.6.7, < 2)
-      padrino-support (= 0.16.1)
+      padrino-support (= 0.16.2)
       tilt (>= 2.1, < 3)
-    padrino-support (0.16.1)
+    padrino-support (0.16.2)
     parallel (2.2.0)
     parslet (2.0.0)
     prism (1.9.0)
@@ -199,8 +199,8 @@ CHECKSUMS
   middleman-core (4.6.3) sha256=5cab1e1f16b00d26f541a4ca787427e1e0203c34f2d81471c1fae3bf1e7509a8
   minitest (6.0.6) sha256=153ea36d1d987a62942382b61075745042a2b3123b1cd48f4c3675af9cc7d6f1
   mutex_m (0.3.0) sha256=cfcb04ac16b69c4813777022fdceda24e9f798e48092a2b817eb4c0a782b0751
-  padrino-helpers (0.16.1) sha256=dd897c7974c34b8642942e503474365b13336574f837b38d6309a8b67e94940b
-  padrino-support (0.16.1) sha256=fe7fa6e781f978a94299b2e99bebc58ab71f64e9453c81ed21cd74fa15d550a8
+  padrino-helpers (0.16.2) sha256=d62ca6207cb8a4b0d4c6bc6ab14e6878ca397644d51d783ad0a0159feea3744d
+  padrino-support (0.16.2) sha256=256d4208583a3dc3d0eab269c908f52aba6edb11dd5fb906f556c9e34db35737
   parallel (2.2.0) sha256=e1059c5fd7b649558a0aec38a769f06a42942bdb40503d005a59c352fe011cd8
   parslet (2.0.0) sha256=d45130695d39b43d7e6a91f4d2ec66b388a8d822bae38de9b4de9a5fbde1f606
   prism (1.9.0) sha256=7b530c6a9f92c24300014919c9dcbc055bf4cdf51ec30aed099b06cd6674ef85
